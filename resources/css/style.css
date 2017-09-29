@@ -3,6 +3,7 @@ h1{
   font-size: 50px;
   color: white;
   text-align: center;
+  bac
 }
 
 h3{
@@ -28,4 +29,8 @@ p{
 #copyright{
   color: grey;
   text-align: right;
+}
+
+body{
+  background: black;
 }
